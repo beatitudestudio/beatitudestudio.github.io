@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Graphik-Med-Italic';
+    src: url(GraphikMediumItalic.otf);
+}
+
+@font-face {
+    font-family: 'PP-Editorial';
+    src: url(PPEditorialNew-UltralightItalic.ttf);
+}
+
+body {
+    background-color: rgb(231, 231, 231);
+}
+
+.home-hero-temp {
+    text-align: center;
+    font-family: monospace;
+    padding-top: 300px;
+    font-size: 23.5px;
+}
+
+.home-hero-info {
+    text-align: center;
+    font-family: monospace;
+    font-size: 13px;
+}
+
+.home-hero-coming-soon {
+    font-family: monospace;
+    font-size: 15px;
+    padding-top: 20px;
+    text-align: center;
+    color: #0000e4;
+    text-decoration: underline;
+}
+
+.hero-temp-beatitude {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.copyright-other-info {
+    font-family: monospace;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+    font-family: monospace;
+    padding-top: 15px;
+}
+
+li {
+    display: inline;
+}
